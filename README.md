@@ -4,7 +4,7 @@ Welcome to a comprehensive Git and GitHub tutorial repository! This repository i
 
 ## 🎯 Learning Objectives
 
-By the end of this tutorial, you will be able to:
+By the end of this tutorial, you will be able to effectively:
 - Understand the basics of version control and why it's important
 - Use Git commands to track changes in your projects
 - Create and manage GitHub repositories
