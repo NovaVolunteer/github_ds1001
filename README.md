@@ -113,3 +113,5 @@ Once you've completed all tutorials and exercises, you can create a pull request
 **Happy Learning! 🚀**
 
 *This repository is maintained for educational purposes. Feel free to fork it and adapt it for your own teaching needs.*
+
+Commmit changes
