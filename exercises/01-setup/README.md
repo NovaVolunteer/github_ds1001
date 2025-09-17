@@ -2,7 +2,7 @@
 
 **Prerequisites:** Complete [Tutorial 3: Setting Up Git](../../tutorials/03-git-setup.md)
 
-**Time:** 15-20 minutes
+**Time:** 15-25 minutes
 
 **Goal:** Verify your Git installation and configuration
 
