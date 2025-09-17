@@ -1,4 +1,4 @@
-# Git & GitHub Tutorial for Students
+# Git & GitHub Tutorial for Kobe
 
 Welcome to a comprehensive Git and GitHub tutorial repository! This repository is designed to teach students the fundamentals of version control using Git and collaborative development using GitHub.
 
